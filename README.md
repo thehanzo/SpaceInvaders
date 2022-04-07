@@ -1,2 +1,2 @@
 # SpaceInvaders
-Game based on space invaders using pycharm
+Game based on space invaders using pygame
